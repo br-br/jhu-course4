@@ -1,0 +1,40 @@
+body {
+  color: #381438 !important;
+}
+a.navbar-brand {
+  color: #e1dae1!important;
+}
+a.navbar-brand:hover {
+  color: #fffff8 !important;
+}
+.navbar-header, #nav {
+  background-color: #5e225e;
+}
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #bb55dd;
+}
+ul.navbar-nav {
+  background-color: #e7cce7;
+}
+ul.navbar-nav a {
+  color: #660066 !important;
+}
+ul.navbar-nav a:hover {
+  color: #bb0088 !important;
+}
+button.navbar-toggle .collapsed {
+  background-color: #cc33cc;
+}
+
+#chicken, #beef, #sushi {
+  padding: 5px 20px;
+}
+article {
+  background-color: #ebc7eb;
+  /*padding: 2px 20px;*/
+}
+.submit {
+  background-color: #ebc7eb;
+  padding: 2px 20px;
+  margin: 30px 20px;
+}
